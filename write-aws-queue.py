@@ -1,7 +1,7 @@
 
 # This script created a queue
 #
-# Author - Paul Doyle Nov 2015
+# Author - Raminta Zelvyte Nov 2015
 #
 #
 import boto.sqs
